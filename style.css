@@ -20,3 +20,10 @@ div{
     box-shadow: 2px 4px 10px blue;
 
 }
+
+img{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+
+}
